@@ -1,0 +1,18 @@
+Zweck:
+Website Erweiterung für Firma Gross GmbH
+Bereich für Mitarbeiter und Firmenkunden auf dem sich diese anmelden
+und bestimmte Bereiche der Website freischalten können.
+
+Ist Zustand:
+Bestehende Webseite, verwendet PHP und JS mit einer MariaDB Datenbank.
+
+Soll Zustand:
+Dokumentierte Lösung mit Beschreibung von Sicherheitsaspekten bezüglich Login
+auf Websiten, insbesondere Passwörter.
+
+Beschreibung und Darstellung der dafür benötigten Datenbank
+
+Erweiterung des Menüs auf der Homepage nach Login basierend auf Mitarbeiter
+Berechtigungen und Kunden(Zusatzoption)
+
+Kostenaufstellung und Analyse
